@@ -1,0 +1,982 @@
+2023-02-13 16:51:22,420 - root - INFO - --------------------------------------------------
+2023-02-13 16:51:22,420 - root - INFO - Starting concurrent thread pool executorwith 12 threads with 5 jobs
+2023-02-13 16:51:22,420 - root - INFO - START -> job1
+2023-02-13 16:51:22,422 - root - INFO - START -> job2
+2023-02-13 16:51:22,423 - root - INFO - START -> job3
+2023-02-13 16:51:22,425 - root - INFO - START -> job4
+2023-02-13 16:51:22,443 - root - INFO - START -> job5
+2023-02-13 16:51:22,771 - root - INFO - END -> job3
+2023-02-13 16:51:22,928 - root - INFO - END -> job2
+2023-02-13 16:51:25,970 - root - INFO - END -> job4
+2023-02-13 16:51:26,430 - root - INFO - END -> job1
+2023-02-13 16:51:26,690 - root - INFO - END -> job5
+2023-02-13 16:51:26,692 - root - INFO - Complete. Elapsed time: 4.272460460662842 seconds
+2023-02-13 16:51:37,638 - root - INFO - --------------------------------------------------
+2023-02-13 16:51:37,638 - root - INFO - Starting concurrent thread pool executorwith 3 threads with 5 jobs
+2023-02-13 16:51:37,639 - root - INFO - START -> job1
+2023-02-13 16:51:37,640 - root - INFO - START -> job2
+2023-02-13 16:51:37,694 - root - INFO - START -> job3
+2023-02-13 16:51:37,996 - root - INFO - END -> job3
+2023-02-13 16:51:37,996 - root - INFO - START -> job4
+2023-02-13 16:51:38,215 - root - INFO - END -> job2
+2023-02-13 16:51:38,216 - root - INFO - START -> job5
+2023-02-13 16:51:41,441 - root - INFO - END -> job1
+2023-02-13 16:51:41,442 - root - INFO - END -> job4
+2023-02-13 16:51:42,256 - root - INFO - END -> job5
+2023-02-13 16:51:42,256 - root - INFO - Complete. Elapsed time: 4.617733478546143 seconds
+2023-02-13 17:18:05,672 - root - INFO - --------------------------------------------------
+2023-02-13 17:18:05,672 - root - INFO - Starting concurrent thread pool executorwith 3 threads with 5 jobs
+2023-02-13 17:18:05,674 - root - INFO - START -> job1
+2023-02-13 17:18:05,675 - root - INFO - START -> job2
+2023-02-13 17:18:05,676 - root - INFO - START -> job3
+2023-02-13 17:18:05,970 - root - INFO - END -> job3
+2023-02-13 17:18:05,970 - root - INFO - START -> job4
+2023-02-13 17:18:06,216 - root - INFO - END -> job2
+2023-02-13 17:18:06,216 - root - INFO - START -> job5
+2023-02-13 17:18:09,450 - root - INFO - END -> job4
+2023-02-13 17:18:09,450 - root - INFO - END -> job1
+2023-02-13 17:18:10,156 - root - INFO - END -> job5
+2023-02-13 17:18:10,157 - root - INFO - Complete. Elapsed time: 4.485505104064941 seconds
+2023-02-13 17:18:38,259 - root - INFO - --------------------------------------------------
+2023-02-13 17:18:38,259 - root - INFO - Starting concurrent thread pool executorwith 12 threads with 5 jobs
+2023-02-13 17:18:38,260 - root - INFO - START -> job1
+2023-02-13 17:18:38,261 - root - INFO - START -> job2
+2023-02-13 17:18:38,262 - root - INFO - START -> job3
+2023-02-13 17:18:38,264 - root - INFO - START -> job4
+2023-02-13 17:18:38,304 - root - INFO - START -> job5
+2023-02-13 17:18:38,589 - root - INFO - END -> job3
+2023-02-13 17:18:38,754 - root - INFO - END -> job2
+2023-02-13 17:18:41,598 - root - INFO - END -> job4
+2023-02-13 17:18:41,906 - root - INFO - END -> job1
+2023-02-13 17:18:42,420 - root - INFO - END -> job5
+2023-02-13 17:18:42,421 - root - INFO - Complete. Elapsed time: 4.1617302894592285 seconds
+2023-02-13 17:19:09,043 - root - INFO - --------------------------------------------------
+2023-02-13 17:19:09,043 - root - INFO - Starting concurrent thread pool executorwith 2 threads with 5 jobs
+2023-02-13 17:19:09,044 - root - INFO - START -> job1
+2023-02-13 17:19:09,045 - root - INFO - START -> job2
+2023-02-13 17:19:33,480 - root - INFO - END -> job2
+2023-02-13 17:19:33,517 - root - INFO - START -> job3
+2023-02-13 17:19:50,341 - root - INFO - END -> job3
+2023-02-13 17:19:50,359 - root - INFO - START -> job4
+2023-02-13 17:21:43,851 - root - INFO - END -> job4
+2023-02-13 17:21:43,875 - root - INFO - START -> job5
+2023-02-13 17:21:54,241 - root - INFO - END -> job1
+2023-02-13 17:23:20,448 - root - INFO - END -> job5
+2023-02-13 17:23:20,472 - root - INFO - Complete. Elapsed time: 251.4276921749115 seconds
+2023-02-13 17:23:47,025 - root - INFO - --------------------------------------------------
+2023-02-13 17:23:47,025 - root - INFO - Starting concurrent thread pool executor with 12 threads executing 5 jobs
+2023-02-13 17:23:47,026 - root - INFO - START -> job1
+2023-02-13 17:23:47,028 - root - INFO - START -> job2
+2023-02-13 17:23:47,062 - root - INFO - START -> job3
+2023-02-13 17:23:47,103 - root - INFO - START -> job4
+2023-02-13 17:23:47,166 - root - INFO - START -> job5
+2023-02-13 17:23:50,989 - root - INFO - END -> job3
+2023-02-13 17:24:07,514 - root - INFO - END -> job2
+2023-02-13 17:27:12,074 - root - INFO - END -> job5
+2023-02-13 17:27:18,246 - root - INFO - END -> job4
+2023-02-13 17:27:49,709 - root - INFO - END -> job1
+2023-02-13 17:27:49,731 - root - INFO - Complete. Elapsed time: 242.70474553108215 seconds
+2023-02-13 17:45:08,615 - root - INFO - --------------------------------------------------
+2023-02-13 17:45:08,616 - root - INFO - Starting concurrent thread pool executor with 11 threads executing 5 jobs
+2023-02-13 17:45:08,616 - root - INFO - START -> job1
+2023-02-13 17:45:08,618 - root - INFO - START -> job2
+2023-02-13 17:45:08,619 - root - INFO - START -> job3
+2023-02-13 17:45:08,621 - root - INFO - START -> job4
+2023-02-13 17:45:08,668 - root - INFO - START -> job5
+2023-02-13 17:45:08,971 - root - INFO - END -> job3
+2023-02-13 17:45:09,172 - root - INFO - END -> job2
+2023-02-13 17:45:12,135 - root - INFO - END -> job4
+2023-02-13 17:45:12,595 - root - INFO - END -> job1
+2023-02-13 17:45:12,907 - root - INFO - END -> job5
+2023-02-13 17:45:12,907 - root - INFO - Complete. Elapsed time: 4.291191101074219 seconds
+2023-02-13 17:46:36,779 - root - INFO - --------------------------------------------------
+2023-02-13 17:46:36,779 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 5 jobs
+2023-02-13 17:46:36,779 - root - INFO - START -> job1
+2023-02-13 17:46:39,546 - root - INFO - END -> job1
+2023-02-13 17:46:39,546 - root - INFO - START -> job2
+2023-02-13 17:46:39,794 - root - INFO - END -> job2
+2023-02-13 17:46:39,794 - root - INFO - START -> job3
+2023-02-13 17:46:39,953 - root - INFO - END -> job3
+2023-02-13 17:46:39,953 - root - INFO - START -> job4
+2023-02-13 17:46:42,791 - root - INFO - END -> job4
+2023-02-13 17:46:42,792 - root - INFO - START -> job5
+2023-02-13 17:46:46,037 - root - INFO - END -> job5
+2023-02-13 17:46:46,038 - root - INFO - Complete. Elapsed time: 9.258764028549194 seconds
+2023-02-13 17:47:12,928 - root - INFO - --------------------------------------------------
+2023-02-13 17:47:12,928 - root - INFO - Starting concurrent thread pool executor with 12 threads executing 5 jobs
+2023-02-13 17:47:12,928 - root - INFO - START -> job1
+2023-02-13 17:47:12,930 - root - INFO - START -> job2
+2023-02-13 17:47:12,931 - root - INFO - START -> job3
+2023-02-13 17:47:12,932 - root - INFO - START -> job4
+2023-02-13 17:47:12,979 - root - INFO - START -> job5
+2023-02-13 17:47:13,312 - root - INFO - END -> job3
+2023-02-13 17:47:13,435 - root - INFO - END -> job2
+2023-02-13 17:47:16,450 - root - INFO - END -> job4
+2023-02-13 17:47:16,608 - root - INFO - END -> job1
+2023-02-13 17:47:17,100 - root - INFO - END -> job5
+2023-02-13 17:47:17,101 - root - INFO - Complete. Elapsed time: 4.173001050949097 seconds
+2023-02-13 17:48:39,901 - root - INFO - --------------------------------------------------
+2023-02-13 17:48:39,902 - root - INFO - Starting concurrent thread pool executor with 9 threads executing 5 jobs
+2023-02-13 17:48:39,902 - root - INFO - START -> job1
+2023-02-13 17:48:39,904 - root - INFO - START -> job2
+2023-02-13 17:48:39,905 - root - INFO - START -> job3
+2023-02-13 17:48:39,906 - root - INFO - START -> job4
+2023-02-13 17:48:39,952 - root - INFO - START -> job5
+2023-02-13 17:48:40,289 - root - INFO - END -> job3
+2023-02-13 17:48:40,432 - root - INFO - END -> job2
+2023-02-13 17:48:43,462 - root - INFO - END -> job4
+2023-02-13 17:48:43,627 - root - INFO - END -> job1
+2023-02-13 17:48:44,169 - root - INFO - END -> job5
+2023-02-13 17:48:44,170 - root - INFO - Complete. Elapsed time: 4.268249750137329 seconds
+2023-02-13 17:48:52,942 - root - INFO - --------------------------------------------------
+2023-02-13 17:48:52,942 - root - INFO - Starting concurrent thread pool executor with 9 threads executing 5 jobs
+2023-02-13 17:48:52,943 - root - INFO - START -> job1
+2023-02-13 17:48:52,944 - root - INFO - START -> job2
+2023-02-13 17:48:52,946 - root - INFO - START -> job3
+2023-02-13 17:48:52,947 - root - INFO - START -> job4
+2023-02-13 17:48:52,977 - root - INFO - START -> job5
+2023-02-13 17:48:53,280 - root - INFO - END -> job3
+2023-02-13 17:48:53,447 - root - INFO - END -> job2
+2023-02-13 17:48:56,440 - root - INFO - END -> job4
+2023-02-13 17:48:56,555 - root - INFO - END -> job1
+2023-02-13 17:48:57,115 - root - INFO - END -> job5
+2023-02-13 17:48:57,115 - root - INFO - Complete. Elapsed time: 4.1725475788116455 seconds
+2023-02-13 17:49:09,309 - root - INFO - --------------------------------------------------
+2023-02-13 17:49:09,309 - root - INFO - Starting concurrent thread pool executor with 11 threads executing 5 jobs
+2023-02-13 17:49:09,309 - root - INFO - START -> job1
+2023-02-13 17:49:09,311 - root - INFO - START -> job2
+2023-02-13 17:49:09,312 - root - INFO - START -> job3
+2023-02-13 17:49:09,313 - root - INFO - START -> job4
+2023-02-13 17:49:09,361 - root - INFO - START -> job5
+2023-02-13 17:49:09,668 - root - INFO - END -> job3
+2023-02-13 17:49:09,812 - root - INFO - END -> job2
+2023-02-13 17:49:12,884 - root - INFO - END -> job4
+2023-02-13 17:49:13,026 - root - INFO - END -> job1
+2023-02-13 17:49:13,501 - root - INFO - END -> job5
+2023-02-13 17:49:13,502 - root - INFO - Complete. Elapsed time: 4.192819833755493 seconds
+2023-02-13 17:59:39,153 - root - INFO - --------------------------------------------------
+2023-02-13 17:59:39,153 - root - INFO - Starting concurrent thread pool executor with 11 threads executing 6 jobs
+2023-02-13 17:59:39,154 - root - INFO - START -> job1
+2023-02-13 17:59:39,155 - root - INFO - START -> job2
+2023-02-13 17:59:39,156 - root - INFO - START -> job3
+2023-02-13 17:59:39,157 - root - INFO - START -> job4
+2023-02-13 17:59:39,201 - root - INFO - START -> job5
+2023-02-13 17:59:39,202 - root - INFO - START -> job6
+2023-02-13 17:59:39,504 - root - INFO - END -> job3
+2023-02-13 17:59:39,760 - root - INFO - END -> job2
+2023-02-13 17:59:42,928 - root - INFO - END -> job4
+2023-02-13 17:59:43,116 - root - INFO - END -> job1
+2023-02-13 17:59:43,651 - root - INFO - END -> job5
+2023-02-13 18:00:15,478 - root - INFO - END -> job6
+2023-02-13 18:00:15,479 - root - INFO - Complete. Elapsed time: 36.32565999031067 seconds
+2023-02-13 18:00:37,119 - root - INFO - --------------------------------------------------
+2023-02-13 18:00:37,119 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 6 jobs
+2023-02-13 18:00:37,119 - root - INFO - START -> job1
+2023-02-13 18:00:40,126 - root - INFO - END -> job1
+2023-02-13 18:00:40,127 - root - INFO - START -> job2
+2023-02-13 18:00:40,450 - root - INFO - END -> job2
+2023-02-13 18:00:40,450 - root - INFO - START -> job3
+2023-02-13 18:00:40,646 - root - INFO - END -> job3
+2023-02-13 18:00:40,647 - root - INFO - START -> job4
+2023-02-13 18:00:44,956 - root - INFO - END -> job4
+2023-02-13 18:00:44,956 - root - INFO - START -> job5
+2023-02-13 18:00:49,528 - root - INFO - END -> job5
+2023-02-13 18:00:49,528 - root - INFO - START -> job6
+2023-02-13 18:01:28,852 - root - INFO - END -> job6
+2023-02-13 18:01:28,852 - root - INFO - Complete. Elapsed time: 51.73301839828491 seconds
+2023-02-13 18:01:43,255 - root - INFO - --------------------------------------------------
+2023-02-13 18:01:43,255 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 6 jobs
+2023-02-13 18:01:43,256 - root - INFO - START -> job1
+2023-02-13 18:01:43,257 - root - INFO - START -> job2
+2023-02-13 18:01:43,259 - root - INFO - START -> job3
+2023-02-13 18:01:43,260 - root - INFO - START -> job4
+2023-02-13 18:01:43,306 - root - INFO - START -> job5
+2023-02-13 18:01:43,307 - root - INFO - START -> job6
+2023-02-13 18:01:43,637 - root - INFO - END -> job3
+2023-02-13 18:01:43,877 - root - INFO - END -> job2
+2023-02-13 18:01:47,214 - root - INFO - END -> job4
+2023-02-13 18:01:47,343 - root - INFO - END -> job1
+2023-02-13 18:01:47,888 - root - INFO - END -> job5
+2023-02-13 18:02:18,070 - root - INFO - END -> job6
+2023-02-13 18:02:18,070 - root - INFO - Complete. Elapsed time: 34.81532168388367 seconds
+2023-02-13 18:04:00,220 - root - INFO - --------------------------------------------------
+2023-02-13 18:04:00,221 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 7 jobs
+2023-02-13 18:04:00,221 - root - INFO - START -> job1
+2023-02-13 18:04:00,223 - root - INFO - START -> job2
+2023-02-13 18:04:00,225 - root - INFO - START -> job3
+2023-02-13 18:04:00,227 - root - INFO - START -> job4
+2023-02-13 18:04:00,273 - root - INFO - START -> job5
+2023-02-13 18:04:00,274 - root - INFO - START -> job6
+2023-02-13 18:04:00,617 - root - INFO - END -> job3
+2023-02-13 18:04:00,618 - root - INFO - START -> job7
+2023-02-13 18:04:00,857 - root - INFO - END -> job2
+2023-02-13 18:04:04,261 - root - INFO - END -> job4
+2023-02-13 18:04:04,842 - root - INFO - END -> job1
+2023-02-13 18:04:05,137 - root - INFO - END -> job5
+2023-02-13 18:04:39,968 - root - INFO - END -> job6
+2023-02-13 18:04:40,235 - root - INFO - END -> job7
+2023-02-13 18:04:40,235 - root - INFO - Complete. Elapsed time: 40.0142776966095 seconds
+2023-02-13 19:44:02,590 - root - INFO - --------------------------------------------------
+2023-02-13 19:44:02,591 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 7 jobs
+2023-02-13 19:44:02,591 - root - INFO - START -> job1
+2023-02-13 19:44:02,592 - root - INFO - START -> job2
+2023-02-13 19:44:02,594 - root - INFO - START -> job3
+2023-02-13 19:44:02,595 - root - INFO - START -> job4
+2023-02-13 19:44:02,635 - root - INFO - START -> job5
+2023-02-13 19:44:02,642 - root - INFO - START -> job6
+2023-02-13 19:44:03,002 - root - INFO - END -> job3
+2023-02-13 19:44:03,003 - root - INFO - START -> job7
+2023-02-13 19:44:03,251 - root - INFO - END -> job2
+2023-02-13 19:44:06,598 - root - INFO - END -> job4
+2023-02-13 19:44:06,989 - root - INFO - END -> job1
+2023-02-13 19:44:07,559 - root - INFO - END -> job5
+2023-02-13 19:44:45,378 - root - INFO - END -> job6
+2023-02-13 19:44:45,797 - root - INFO - END -> job7
+2023-02-13 19:44:45,797 - root - INFO - Complete. Elapsed time: 43.20692181587219 seconds
+2023-02-13 19:46:33,455 - root - INFO - --------------------------------------------------
+2023-02-13 19:46:33,456 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 7 jobs
+2023-02-13 19:46:33,456 - root - INFO - START -> job1
+2023-02-13 19:46:33,458 - root - INFO - START -> job2
+2023-02-13 19:46:33,508 - root - INFO - START -> job3
+2023-02-13 19:46:33,509 - root - INFO - START -> job4
+2023-02-13 19:46:33,510 - root - INFO - START -> job5
+2023-02-13 19:46:33,572 - root - INFO - START -> job6
+2023-02-13 19:46:33,866 - root - INFO - END -> job3
+2023-02-13 19:46:33,867 - root - INFO - START -> job7
+2023-02-13 19:46:34,174 - root - INFO - END -> job2
+2023-02-13 19:46:38,065 - root - INFO - END -> job4
+2023-02-13 19:46:38,472 - root - INFO - END -> job1
+2023-02-13 19:46:39,186 - root - INFO - END -> job5
+2023-02-13 19:47:16,292 - root - INFO - END -> job6
+2023-02-13 19:47:16,878 - root - INFO - END -> job7
+2023-02-13 19:47:16,878 - root - INFO - Complete. Elapsed time: 43.42329740524292 seconds
+2023-02-13 19:50:38,986 - root - INFO - --------------------------------------------------
+2023-02-13 19:50:38,987 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 2 jobs
+2023-02-13 19:50:38,987 - root - INFO - START -> job1
+2023-02-13 19:50:38,987 - root - INFO - START -> job2
+2023-02-13 19:50:38,988 - root - INFO - Complete. Elapsed time: 0.0009992122650146484 seconds
+2023-02-13 19:52:08,944 - root - INFO - START -> job1
+2023-02-13 19:54:26,449 - root - INFO - --------------------------------------------------
+2023-02-13 19:54:26,449 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 2 jobs
+2023-02-13 19:54:26,450 - root - INFO - START -> job1
+2023-02-13 19:54:26,450 - root - INFO - START -> job2
+2023-02-13 19:54:26,450 - root - INFO - Complete. Elapsed time: 0.0009677410125732422 seconds
+2023-02-13 19:54:51,378 - root - INFO - START -> job1
+2023-02-13 19:55:19,700 - root - INFO - --------------------------------------------------
+2023-02-13 19:55:19,701 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 2 jobs
+2023-02-13 19:55:19,701 - root - INFO - START -> job1
+2023-02-13 19:55:19,702 - root - INFO - START -> job2
+2023-02-13 19:55:47,456 - root - INFO - Complete. Elapsed time: 27.75502109527588 seconds
+2023-02-13 19:56:15,224 - root - INFO - --------------------------------------------------
+2023-02-13 19:56:15,225 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 2 jobs
+2023-02-13 19:56:15,225 - root - INFO - START -> job1
+2023-02-13 19:56:15,226 - root - INFO - START -> job2
+2023-02-13 19:56:15,226 - root - INFO - Complete. Elapsed time: 0.002000570297241211 seconds
+2023-02-13 19:56:47,333 - root - INFO - --------------------------------------------------
+2023-02-13 19:56:47,333 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 2 jobs
+2023-02-13 19:56:47,334 - root - INFO - START -> job1
+2023-02-13 19:56:47,341 - root - INFO - START -> job2
+2023-02-13 19:56:47,687 - root - INFO - END -> job1
+2023-02-13 19:56:47,687 - root - INFO - Complete. Elapsed time: 0.35422182083129883 seconds
+2023-02-13 19:56:59,345 - root - INFO - --------------------------------------------------
+2023-02-13 19:56:59,345 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 2 jobs
+2023-02-13 19:56:59,345 - root - INFO - START -> job1
+2023-02-13 19:56:59,347 - root - INFO - START -> job2
+2023-02-13 19:56:59,664 - root - INFO - END -> job1
+2023-02-13 19:56:59,665 - root - INFO - Complete. Elapsed time: 0.3204622268676758 seconds
+2023-02-13 19:57:52,413 - root - INFO - --------------------------------------------------
+2023-02-13 19:57:52,413 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 2 jobs
+2023-02-13 19:57:52,414 - root - INFO - START -> job1
+2023-02-13 19:57:52,415 - root - INFO - START -> job2
+2023-02-13 19:57:52,933 - root - INFO - END -> job2
+2023-02-13 19:57:53,054 - root - INFO - END -> job1
+2023-02-13 19:57:53,055 - root - INFO - Complete. Elapsed time: 0.6423602104187012 seconds
+2023-02-13 19:58:02,607 - root - INFO - --------------------------------------------------
+2023-02-13 19:58:02,608 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 2 jobs
+2023-02-13 19:58:02,608 - root - INFO - START -> job1
+2023-02-13 19:58:02,610 - root - INFO - START -> job2
+2023-02-13 19:58:03,141 - root - INFO - END -> job2
+2023-02-13 19:58:03,259 - root - INFO - END -> job1
+2023-02-13 19:58:03,259 - root - INFO - Complete. Elapsed time: 0.6528844833374023 seconds
+2023-02-13 19:58:21,623 - root - INFO - --------------------------------------------------
+2023-02-13 19:58:21,623 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 2 jobs
+2023-02-13 19:58:21,624 - root - INFO - START -> job1
+2023-02-13 19:58:21,625 - root - INFO - START -> job2
+2023-02-13 19:58:22,158 - root - INFO - END -> job2
+2023-02-13 19:58:22,279 - root - INFO - END -> job1
+2023-02-13 19:58:22,280 - root - INFO - Complete. Elapsed time: 0.6572170257568359 seconds
+2023-02-13 21:00:47,094 - root - INFO - --------------------------------------------------
+2023-02-13 21:00:47,094 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 2 jobs
+2023-02-13 21:00:47,095 - root - INFO - START -> job1
+2023-02-13 21:00:47,096 - root - INFO - START -> job2
+2023-02-13 21:00:47,572 - root - INFO - END -> job2
+2023-02-13 21:00:47,784 - root - INFO - END -> job1
+2023-02-13 21:00:47,785 - root - INFO - Complete. Elapsed time: 0.691286563873291 seconds
+2023-02-13 21:02:05,045 - root - INFO - --------------------------------------------------
+2023-02-13 21:02:05,045 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 3 jobs
+2023-02-13 21:02:05,046 - root - INFO - START -> job1
+2023-02-13 21:02:05,047 - root - INFO - START -> job2
+2023-02-13 21:02:05,047 - root - INFO - START -> job3
+2023-02-13 21:02:05,767 - root - INFO - END -> job2
+2023-02-13 21:02:05,842 - root - INFO - END -> job3
+2023-02-13 21:02:05,842 - root - INFO - END -> job1
+2023-02-13 21:02:05,842 - root - INFO - Complete. Elapsed time: 0.7972080707550049 seconds
+2023-02-13 21:02:17,434 - root - INFO - --------------------------------------------------
+2023-02-13 21:02:17,434 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 3 jobs
+2023-02-13 21:02:17,435 - root - INFO - START -> job1
+2023-02-13 21:02:17,953 - root - INFO - END -> job1
+2023-02-13 21:02:17,953 - root - INFO - START -> job2
+2023-02-13 21:02:18,281 - root - INFO - END -> job2
+2023-02-13 21:02:18,282 - root - INFO - START -> job3
+2023-02-13 21:02:18,622 - root - INFO - END -> job3
+2023-02-13 21:02:18,622 - root - INFO - Complete. Elapsed time: 1.187842845916748 seconds
+2023-02-14 12:36:09,428 - root - INFO - --------------------------------------------------
+2023-02-14 12:36:09,429 - root - INFO - Starting concurrent thread pool executor with 5 threads executing 5 jobs
+2023-02-14 12:36:09,430 - root - INFO - START -> job1
+2023-02-14 12:36:09,432 - root - INFO - START -> job2
+2023-02-14 12:36:09,476 - root - INFO - START -> job3
+2023-02-14 12:36:09,504 - root - INFO - START -> job4
+2023-02-14 12:36:09,506 - root - INFO - START -> job5
+2023-02-14 12:36:09,928 - root - INFO - END -> job3
+2023-02-14 12:36:10,211 - root - INFO - END -> job2
+2023-02-14 12:36:14,565 - root - INFO - END -> job4
+2023-02-14 12:36:14,913 - root - INFO - END -> job1
+2023-02-14 12:36:15,574 - root - INFO - END -> job5
+2023-02-14 12:36:15,575 - root - INFO - Complete. Elapsed time: 6.146358013153076 seconds
+2023-02-14 12:36:38,831 - root - INFO - --------------------------------------------------
+2023-02-14 12:36:38,831 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 7 jobs
+2023-02-14 12:36:38,831 - root - INFO - START -> job1
+2023-02-14 12:36:38,833 - root - INFO - START -> job2
+2023-02-14 12:36:38,834 - root - INFO - START -> job3
+2023-02-14 12:36:38,835 - root - INFO - START -> job4
+2023-02-14 12:36:38,836 - root - INFO - START -> job5
+2023-02-14 12:36:38,883 - root - INFO - START -> job6
+2023-02-14 12:36:39,170 - root - INFO - END -> job3
+2023-02-14 12:36:39,171 - root - INFO - START -> job7
+2023-02-14 12:36:39,361 - root - INFO - END -> job2
+2023-02-14 12:36:41,861 - root - INFO - END -> job4
+2023-02-14 12:36:42,306 - root - INFO - END -> job1
+2023-02-14 12:36:42,497 - root - INFO - END -> job5
+2023-02-14 12:37:12,480 - root - INFO - END -> job6
+2023-02-14 12:37:12,678 - root - INFO - END -> job7
+2023-02-14 12:37:12,678 - root - INFO - Complete. Elapsed time: 33.84713387489319 seconds
+2023-02-14 12:38:10,201 - root - INFO - --------------------------------------------------
+2023-02-14 12:38:10,201 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 3 jobs
+2023-02-14 12:38:10,202 - root - INFO - START -> job1
+2023-02-14 12:38:10,630 - root - INFO - END -> job1
+2023-02-14 12:38:10,630 - root - INFO - START -> job2
+2023-02-14 12:38:10,923 - root - INFO - END -> job2
+2023-02-14 12:38:10,923 - root - INFO - START -> job3
+2023-02-14 12:38:11,200 - root - INFO - END -> job3
+2023-02-14 12:38:11,200 - root - INFO - Complete. Elapsed time: 0.999269962310791 seconds
+2023-02-14 13:13:17,158 - root - INFO - --------------------------------------------------
+2023-02-14 13:13:17,159 - root - INFO - Starting concurrent thread pool executor with 5 threads executing 5 jobs
+2023-02-14 13:13:17,159 - root - INFO - START -> job1
+2023-02-14 13:13:17,160 - root - INFO - START -> job2
+2023-02-14 13:13:17,162 - root - INFO - START -> job3
+2023-02-14 13:13:17,164 - root - INFO - START -> job4
+2023-02-14 13:13:17,165 - root - INFO - START -> job5
+2023-02-14 13:13:17,489 - root - INFO - END -> job3
+2023-02-14 13:13:17,663 - root - INFO - END -> job2
+2023-02-14 13:13:19,774 - root - INFO - END -> job4
+2023-02-14 13:13:19,979 - root - INFO - END -> job1
+2023-02-14 13:13:20,453 - root - INFO - END -> job5
+2023-02-14 13:13:20,454 - root - INFO - Complete. Elapsed time: 3.2953248023986816 seconds
+2023-02-14 13:13:42,923 - root - INFO - --------------------------------------------------
+2023-02-14 13:13:42,923 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 5 jobs
+2023-02-14 13:13:42,924 - root - INFO - START -> job1
+2023-02-14 13:13:45,214 - root - INFO - END -> job1
+2023-02-14 13:13:45,214 - root - INFO - START -> job2
+2023-02-14 13:13:45,431 - root - INFO - END -> job2
+2023-02-14 13:13:45,431 - root - INFO - START -> job3
+2023-02-14 13:13:45,574 - root - INFO - END -> job3
+2023-02-14 13:13:45,574 - root - INFO - START -> job4
+2023-02-14 13:13:47,767 - root - INFO - END -> job4
+2023-02-14 13:13:47,767 - root - INFO - START -> job5
+2023-02-14 13:13:50,392 - root - INFO - END -> job5
+2023-02-14 13:13:50,392 - root - INFO - Complete. Elapsed time: 7.4700398445129395 seconds
+2023-02-14 13:15:51,188 - root - INFO - --------------------------------------------------
+2023-02-14 13:15:51,188 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 5 jobs
+2023-02-14 13:15:51,189 - root - INFO - START -> job1
+2023-02-14 13:15:51,190 - root - INFO - START -> job2
+2023-02-14 13:15:51,191 - root - INFO - START -> job3
+2023-02-14 13:15:51,484 - root - INFO - END -> job3
+2023-02-14 13:15:51,484 - root - INFO - START -> job4
+2023-02-14 13:15:51,655 - root - INFO - END -> job2
+2023-02-14 13:15:51,656 - root - INFO - START -> job5
+2023-02-14 13:15:53,812 - root - INFO - END -> job4
+2023-02-14 13:15:53,880 - root - INFO - END -> job1
+2023-02-14 13:15:54,460 - root - INFO - END -> job5
+2023-02-14 13:15:54,460 - root - INFO - Complete. Elapsed time: 3.2721893787384033 seconds
+2023-02-14 13:16:01,921 - root - INFO - --------------------------------------------------
+2023-02-14 13:16:01,921 - root - INFO - Starting concurrent thread pool executor with 11 threads executing 5 jobs
+2023-02-14 13:16:01,921 - root - INFO - START -> job1
+2023-02-14 13:16:01,923 - root - INFO - START -> job2
+2023-02-14 13:16:01,924 - root - INFO - START -> job3
+2023-02-14 13:16:01,925 - root - INFO - START -> job4
+2023-02-14 13:16:01,926 - root - INFO - START -> job5
+2023-02-14 13:16:02,255 - root - INFO - END -> job3
+2023-02-14 13:16:02,377 - root - INFO - END -> job2
+2023-02-14 13:16:04,453 - root - INFO - END -> job4
+2023-02-14 13:16:04,699 - root - INFO - END -> job1
+2023-02-14 13:16:05,096 - root - INFO - END -> job5
+2023-02-14 13:16:05,096 - root - INFO - Complete. Elapsed time: 3.174342393875122 seconds
+2023-02-14 13:17:19,707 - root - INFO - --------------------------------------------------
+2023-02-14 13:17:19,707 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 7 jobs
+2023-02-14 13:17:19,708 - root - INFO - START -> job1
+2023-02-14 13:17:19,708 - root - INFO - START -> job2
+2023-02-14 13:17:19,709 - root - INFO - START -> job3
+2023-02-14 13:17:19,710 - root - INFO - START -> job4
+2023-02-14 13:17:19,711 - root - INFO - START -> job5
+2023-02-14 13:17:19,712 - root - INFO - START -> job6
+2023-02-14 13:17:20,065 - root - INFO - END -> job3
+2023-02-14 13:17:20,065 - root - INFO - START -> job7
+2023-02-14 13:17:20,179 - root - INFO - END -> job2
+2023-02-14 13:17:22,479 - root - INFO - END -> job4
+2023-02-14 13:17:22,951 - root - INFO - END -> job1
+2023-02-14 13:17:23,203 - root - INFO - END -> job5
+2023-02-14 13:17:51,107 - root - INFO - END -> job6
+2023-02-14 13:17:51,208 - root - INFO - END -> job7
+2023-02-14 13:17:51,209 - root - INFO - Complete. Elapsed time: 31.501962423324585 seconds
+2023-02-14 13:18:09,750 - root - INFO - --------------------------------------------------
+2023-02-14 13:18:09,751 - root - INFO - Starting concurrent thread pool executor with 7 threads executing 7 jobs
+2023-02-14 13:18:09,751 - root - INFO - START -> job1
+2023-02-14 13:18:09,753 - root - INFO - START -> job2
+2023-02-14 13:18:09,753 - root - INFO - START -> job3
+2023-02-14 13:18:09,754 - root - INFO - START -> job4
+2023-02-14 13:18:09,755 - root - INFO - START -> job5
+2023-02-14 13:18:09,756 - root - INFO - START -> job6
+2023-02-14 13:18:09,806 - root - INFO - START -> job7
+2023-02-14 13:18:10,099 - root - INFO - END -> job3
+2023-02-14 13:18:10,290 - root - INFO - END -> job2
+2023-02-14 13:18:12,596 - root - INFO - END -> job4
+2023-02-14 13:18:13,082 - root - INFO - END -> job1
+2023-02-14 13:18:13,359 - root - INFO - END -> job5
+2023-02-14 13:18:41,740 - root - INFO - END -> job6
+2023-02-14 13:18:41,966 - root - INFO - END -> job7
+2023-02-14 13:18:41,967 - root - INFO - Complete. Elapsed time: 32.21668243408203 seconds
+2023-02-14 13:19:03,848 - root - INFO - --------------------------------------------------
+2023-02-14 13:19:03,849 - root - INFO - Starting concurrent thread pool executor with 7 threads executing 7 jobs
+2023-02-14 13:19:03,849 - root - INFO - START -> job1
+2023-02-14 13:19:03,850 - root - INFO - START -> job2
+2023-02-14 13:19:03,851 - root - INFO - START -> job3
+2023-02-14 13:19:03,853 - root - INFO - START -> job4
+2023-02-14 13:19:03,853 - root - INFO - START -> job5
+2023-02-14 13:19:03,854 - root - INFO - START -> job6
+2023-02-14 13:19:03,906 - root - INFO - START -> job7
+2023-02-14 13:19:04,223 - root - INFO - END -> job3
+2023-02-14 13:19:04,411 - root - INFO - END -> job2
+2023-02-14 13:19:06,630 - root - INFO - END -> job4
+2023-02-14 13:19:06,913 - root - INFO - END -> job1
+2023-02-14 13:19:07,350 - root - INFO - END -> job5
+2023-02-14 13:19:35,343 - root - INFO - END -> job6
+2023-02-14 13:19:35,512 - root - INFO - END -> job7
+2023-02-14 13:19:35,512 - root - INFO - Complete. Elapsed time: 31.663909673690796 seconds
+2023-02-14 13:19:50,595 - root - INFO - --------------------------------------------------
+2023-02-14 13:19:50,596 - root - INFO - Starting concurrent thread pool executor with 6 threads executing 7 jobs
+2023-02-14 13:19:50,596 - root - INFO - START -> job1
+2023-02-14 13:19:50,597 - root - INFO - START -> job2
+2023-02-14 13:19:50,598 - root - INFO - START -> job3
+2023-02-14 13:19:50,599 - root - INFO - START -> job4
+2023-02-14 13:19:50,600 - root - INFO - START -> job5
+2023-02-14 13:19:50,601 - root - INFO - START -> job6
+2023-02-14 13:19:50,943 - root - INFO - END -> job3
+2023-02-14 13:19:50,944 - root - INFO - START -> job7
+2023-02-14 13:19:51,072 - root - INFO - END -> job2
+2023-02-14 13:19:53,429 - root - INFO - END -> job4
+2023-02-14 13:19:53,883 - root - INFO - END -> job1
+2023-02-14 13:19:54,161 - root - INFO - END -> job5
+2023-02-14 13:20:22,295 - root - INFO - END -> job6
+2023-02-14 13:20:22,670 - root - INFO - END -> job7
+2023-02-14 13:20:22,670 - root - INFO - Complete. Elapsed time: 32.075661182403564 seconds
+2023-02-14 13:20:36,469 - root - INFO - --------------------------------------------------
+2023-02-14 13:20:36,469 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 7 jobs
+2023-02-14 13:20:36,469 - root - INFO - START -> job1
+2023-02-14 13:20:36,470 - root - INFO - START -> job2
+2023-02-14 13:20:36,472 - root - INFO - START -> job3
+2023-02-14 13:20:36,758 - root - INFO - END -> job3
+2023-02-14 13:20:36,758 - root - INFO - START -> job4
+2023-02-14 13:20:36,914 - root - INFO - END -> job2
+2023-02-14 13:20:36,914 - root - INFO - START -> job5
+2023-02-14 13:20:39,285 - root - INFO - END -> job4
+2023-02-14 13:20:39,285 - root - INFO - START -> job6
+2023-02-14 13:20:39,359 - root - INFO - END -> job1
+2023-02-14 13:20:39,359 - root - INFO - START -> job7
+2023-02-14 13:20:39,985 - root - INFO - END -> job5
+2023-02-14 13:21:20,108 - root - INFO - END -> job6
+2023-02-14 13:21:20,449 - root - INFO - END -> job7
+2023-02-14 13:21:20,449 - root - INFO - Complete. Elapsed time: 43.98069477081299 seconds
+2023-02-14 13:21:54,435 - root - INFO - --------------------------------------------------
+2023-02-14 13:21:54,435 - root - INFO - Starting concurrent thread pool executor with 11 threads executing 5 jobs
+2023-02-14 13:21:54,435 - root - INFO - START -> job1
+2023-02-14 13:21:54,437 - root - INFO - START -> job2
+2023-02-14 13:21:54,438 - root - INFO - START -> job3
+2023-02-14 13:21:54,439 - root - INFO - START -> job4
+2023-02-14 13:21:54,440 - root - INFO - START -> job5
+2023-02-14 13:21:54,744 - root - INFO - END -> job3
+2023-02-14 13:21:54,902 - root - INFO - END -> job2
+2023-02-14 13:21:57,005 - root - INFO - END -> job4
+2023-02-14 13:21:57,363 - root - INFO - END -> job1
+2023-02-14 13:21:57,558 - root - INFO - END -> job5
+2023-02-14 13:21:57,558 - root - INFO - Complete. Elapsed time: 3.123134136199951 seconds
+2023-02-14 13:25:27,425 - root - INFO - --------------------------------------------------
+2023-02-14 13:25:27,426 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 3 jobs
+2023-02-14 13:25:27,427 - root - INFO - START -> sleep1
+2023-02-14 13:25:28,438 - root - INFO - END -> sleep1
+2023-02-14 13:25:28,438 - root - INFO - START -> sleep2
+2023-02-14 13:25:30,444 - root - INFO - END -> sleep2
+2023-02-14 13:25:30,445 - root - INFO - START -> sleep3
+2023-02-14 13:25:33,455 - root - INFO - END -> sleep3
+2023-02-14 13:25:33,455 - root - INFO - Complete. Elapsed time: 6.02997612953186 seconds
+2023-02-14 13:25:41,317 - root - INFO - --------------------------------------------------
+2023-02-14 13:25:41,317 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 13:25:41,319 - root - INFO - START -> sleep1
+2023-02-14 13:25:41,319 - root - INFO - START -> sleep2
+2023-02-14 13:25:41,319 - root - INFO - START -> sleep3
+2023-02-14 13:25:42,322 - root - INFO - END -> sleep1
+2023-02-14 13:25:43,320 - root - INFO - END -> sleep2
+2023-02-14 13:25:44,324 - root - INFO - END -> sleep3
+2023-02-14 13:25:44,324 - root - INFO - Complete. Elapsed time: 3.0071001052856445 seconds
+2023-02-14 13:25:52,139 - root - INFO - --------------------------------------------------
+2023-02-14 13:25:52,140 - root - INFO - Starting concurrent thread pool executor with 12 threads executing 3 jobs
+2023-02-14 13:25:52,141 - root - INFO - START -> sleep1
+2023-02-14 13:25:52,141 - root - INFO - START -> sleep2
+2023-02-14 13:25:52,142 - root - INFO - START -> sleep3
+2023-02-14 13:25:53,143 - root - INFO - END -> sleep1
+2023-02-14 13:25:54,157 - root - INFO - END -> sleep2
+2023-02-14 13:25:55,158 - root - INFO - END -> sleep3
+2023-02-14 13:25:55,158 - root - INFO - Complete. Elapsed time: 3.0183913707733154 seconds
+2023-02-14 13:26:08,950 - root - INFO - --------------------------------------------------
+2023-02-14 13:26:08,950 - root - INFO - Starting concurrent thread pool executor with 11 threads executing 3 jobs
+2023-02-14 13:26:08,950 - root - INFO - START -> sleep1
+2023-02-14 13:26:08,951 - root - INFO - START -> sleep2
+2023-02-14 13:26:08,951 - root - INFO - START -> sleep3
+2023-02-14 13:26:09,958 - root - INFO - END -> sleep1
+2023-02-14 13:26:10,964 - root - INFO - END -> sleep2
+2023-02-14 13:26:11,965 - root - INFO - END -> sleep3
+2023-02-14 13:26:11,966 - root - INFO - Complete. Elapsed time: 3.0157177448272705 seconds
+2023-02-14 13:26:17,301 - root - INFO - --------------------------------------------------
+2023-02-14 13:26:17,301 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 3 jobs
+2023-02-14 13:26:17,303 - root - INFO - START -> sleep1
+2023-02-14 13:26:17,304 - root - INFO - START -> sleep2
+2023-02-14 13:26:18,307 - root - INFO - END -> sleep1
+2023-02-14 13:26:18,308 - root - INFO - START -> sleep3
+2023-02-14 13:26:19,305 - root - INFO - END -> sleep2
+2023-02-14 13:26:21,324 - root - INFO - END -> sleep3
+2023-02-14 13:26:21,324 - root - INFO - Complete. Elapsed time: 4.023047208786011 seconds
+2023-02-14 13:26:48,081 - root - INFO - --------------------------------------------------
+2023-02-14 13:26:48,081 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 3 jobs
+2023-02-14 13:26:48,083 - root - INFO - START -> sleep1
+2023-02-14 13:26:48,083 - root - INFO - START -> sleep2
+2023-02-14 13:26:49,086 - root - INFO - END -> sleep1
+2023-02-14 13:26:49,086 - root - INFO - START -> sleep3
+2023-02-14 13:26:50,087 - root - INFO - END -> sleep2
+2023-02-14 13:26:52,093 - root - INFO - END -> sleep3
+2023-02-14 13:26:52,093 - root - INFO - Complete. Elapsed time: 4.011308670043945 seconds
+2023-02-14 13:39:28,363 - root - INFO - --------------------------------------------------
+2023-02-14 13:39:28,363 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 7 jobs
+2023-02-14 13:39:28,363 - root - INFO - START -> job1
+2023-02-14 13:39:28,364 - root - INFO - START -> job2
+2023-02-14 13:39:28,365 - root - INFO - START -> job3
+2023-02-14 13:39:28,656 - root - INFO - END -> job3
+2023-02-14 13:39:28,656 - root - INFO - START -> job4
+2023-02-14 13:39:28,814 - root - INFO - END -> job2
+2023-02-14 13:39:28,815 - root - INFO - START -> job5
+2023-02-14 13:39:31,131 - root - INFO - END -> job1
+2023-02-14 13:39:31,131 - root - INFO - START -> job6
+2023-02-14 13:39:31,132 - root - INFO - END -> job4
+2023-02-14 13:39:31,132 - root - INFO - START -> job7
+2023-02-14 13:39:31,666 - root - INFO - END -> job5
+2023-02-14 13:40:01,588 - root - INFO - END -> job6
+2023-02-14 13:40:01,822 - root - INFO - END -> job7
+2023-02-14 13:40:01,822 - root - INFO - Complete. Elapsed time: 33.4589409828186 seconds
+2023-02-14 13:48:00,669 - root - INFO - --------------------------------------------------
+2023-02-14 13:48:00,670 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 2 jobs
+2023-02-14 13:48:00,670 - root - INFO - Complete. Elapsed time: 0.0010008811950683594 seconds
+2023-02-14 13:48:44,821 - root - INFO - --------------------------------------------------
+2023-02-14 13:48:44,821 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 2 jobs
+2023-02-14 13:48:44,822 - root - INFO - Complete. Elapsed time: 0.0017066001892089844 seconds
+2023-02-14 13:50:21,045 - root - INFO - --------------------------------------------------
+2023-02-14 13:50:21,045 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 2 jobs
+2023-02-14 13:50:21,046 - root - INFO - Complete. Elapsed time: 0.0010025501251220703 seconds
+2023-02-14 13:50:31,541 - root - INFO - --------------------------------------------------
+2023-02-14 13:50:31,542 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 2 jobs
+2023-02-14 13:50:31,543 - root - INFO - Complete. Elapsed time: 0.001996755599975586 seconds
+2023-02-14 13:51:24,635 - root - INFO - --------------------------------------------------
+2023-02-14 13:51:24,635 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 2 jobs
+2023-02-14 13:51:24,635 - root - INFO - Complete. Elapsed time: 0.0009565353393554688 seconds
+2023-02-14 13:52:36,655 - root - INFO - --------------------------------------------------
+2023-02-14 13:52:36,656 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 2 jobs
+2023-02-14 13:52:36,657 - root - INFO - Complete. Elapsed time: 0.0019421577453613281 seconds
+2023-02-14 15:09:36,711 - root - INFO - --------------------------------------------------
+2023-02-14 15:09:36,712 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 3 jobs
+2023-02-14 15:09:36,712 - root - INFO - START -> job1
+2023-02-14 15:09:37,307 - root - INFO - END -> job1
+2023-02-14 15:09:37,307 - root - INFO - START -> job2
+2023-02-14 15:09:37,703 - root - INFO - END -> job2
+2023-02-14 15:09:37,703 - root - INFO - START -> job3
+2023-02-14 15:09:38,104 - root - INFO - END -> job3
+2023-02-14 15:09:38,104 - root - INFO - Complete. Elapsed time: 1.394526481628418 seconds
+2023-02-14 15:09:42,634 - root - INFO - --------------------------------------------------
+2023-02-14 15:09:42,634 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 3 jobs
+2023-02-14 15:09:42,636 - root - INFO - START -> sleep1
+2023-02-14 15:09:42,636 - root - INFO - START -> sleep2
+2023-02-14 15:09:43,649 - root - INFO - END -> sleep1
+2023-02-14 15:09:43,649 - root - INFO - START -> sleep3
+2023-02-14 15:09:44,645 - root - INFO - END -> sleep2
+2023-02-14 15:09:46,653 - root - INFO - END -> sleep3
+2023-02-14 15:09:46,654 - root - INFO - Complete. Elapsed time: 4.020334243774414 seconds
+2023-02-14 15:11:46,732 - root - INFO - --------------------------------------------------
+2023-02-14 15:11:46,733 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 15:11:46,734 - root - INFO - START -> sleep1
+2023-02-14 15:11:46,734 - root - INFO - START -> sleep2
+2023-02-14 15:11:46,735 - root - INFO - START -> sleep3
+2023-02-14 15:11:47,748 - root - INFO - END -> sleep1
+2023-02-14 15:11:48,748 - root - INFO - END -> sleep2
+2023-02-14 15:11:49,736 - root - INFO - END -> sleep3
+2023-02-14 15:11:49,737 - root - INFO - Complete. Elapsed time: 3.0055348873138428 seconds
+2023-02-14 15:11:57,824 - root - INFO - --------------------------------------------------
+2023-02-14 15:11:57,824 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 3 jobs
+2023-02-14 15:11:57,827 - root - INFO - START -> sleep1
+2023-02-14 15:11:58,840 - root - INFO - END -> sleep1
+2023-02-14 15:11:58,840 - root - INFO - START -> sleep2
+2023-02-14 15:12:00,850 - root - INFO - END -> sleep2
+2023-02-14 15:12:00,850 - root - INFO - START -> sleep3
+2023-02-14 15:12:03,866 - root - INFO - END -> sleep3
+2023-02-14 15:12:03,866 - root - INFO - Complete. Elapsed time: 6.041870832443237 seconds
+2023-02-14 15:12:09,643 - root - INFO - --------------------------------------------------
+2023-02-14 15:12:09,643 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 3 jobs
+2023-02-14 15:12:09,645 - root - INFO - START -> sleep1
+2023-02-14 15:12:09,645 - root - INFO - START -> sleep2
+2023-02-14 15:12:10,647 - root - INFO - END -> sleep1
+2023-02-14 15:12:10,647 - root - INFO - START -> sleep3
+2023-02-14 15:12:11,660 - root - INFO - END -> sleep2
+2023-02-14 15:12:13,654 - root - INFO - END -> sleep3
+2023-02-14 15:12:13,655 - root - INFO - Complete. Elapsed time: 4.011721849441528 seconds
+2023-02-14 15:12:18,476 - root - INFO - --------------------------------------------------
+2023-02-14 15:12:18,476 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 3 jobs
+2023-02-14 15:12:18,477 - root - INFO - START -> sleep1
+2023-02-14 15:12:19,479 - root - INFO - END -> sleep1
+2023-02-14 15:12:19,479 - root - INFO - START -> sleep2
+2023-02-14 15:12:21,483 - root - INFO - END -> sleep2
+2023-02-14 15:12:21,483 - root - INFO - START -> sleep3
+2023-02-14 15:12:24,497 - root - INFO - END -> sleep3
+2023-02-14 15:12:24,497 - root - INFO - Complete. Elapsed time: 6.021221876144409 seconds
+2023-02-14 15:13:04,846 - root - INFO - --------------------------------------------------
+2023-02-14 15:13:04,847 - root - INFO - Starting concurrent thread pool executor with 11 threads executing 5 jobs
+2023-02-14 15:13:04,847 - root - INFO - START -> job1
+2023-02-14 15:13:04,848 - root - INFO - START -> job2
+2023-02-14 15:13:04,849 - root - INFO - START -> job3
+2023-02-14 15:13:04,850 - root - INFO - START -> job4
+2023-02-14 15:13:04,851 - root - INFO - START -> job5
+2023-02-14 15:13:05,197 - root - INFO - END -> job3
+2023-02-14 15:13:05,377 - root - INFO - END -> job2
+2023-02-14 15:13:07,659 - root - INFO - END -> job4
+2023-02-14 15:13:08,097 - root - INFO - END -> job1
+2023-02-14 15:13:08,328 - root - INFO - END -> job5
+2023-02-14 15:13:08,328 - root - INFO - Complete. Elapsed time: 3.4812793731689453 seconds
+2023-02-14 15:21:45,309 - root - INFO - --------------------------------------------------
+2023-02-14 15:21:45,309 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 2 jobs
+2023-02-14 15:21:45,310 - root - INFO - Complete. Elapsed time: 0.0010018348693847656 seconds
+2023-02-14 15:21:59,760 - root - INFO - --------------------------------------------------
+2023-02-14 15:21:59,760 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 2 jobs
+2023-02-14 15:22:57,793 - root - INFO - Complete. Elapsed time: 58.032970905303955 seconds
+2023-02-14 15:24:58,634 - root - INFO - --------------------------------------------------
+2023-02-14 15:24:58,634 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 2 jobs
+2023-02-14 15:25:02,929 - root - INFO - Complete. Elapsed time: 4.294155597686768 seconds
+2023-02-14 15:25:25,648 - root - INFO - --------------------------------------------------
+2023-02-14 15:25:25,648 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 2 jobs
+2023-02-14 15:25:25,649 - root - INFO - Complete. Elapsed time: 0.0011746883392333984 seconds
+2023-02-14 15:26:00,528 - root - INFO - --------------------------------------------------
+2023-02-14 15:26:00,529 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 2 jobs
+2023-02-14 15:26:00,768 - root - INFO - Complete. Elapsed time: 0.23930621147155762 seconds
+2023-02-14 15:26:47,988 - root - INFO - --------------------------------------------------
+2023-02-14 15:26:47,989 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 3 jobs
+2023-02-14 15:26:48,370 - root - INFO - Complete. Elapsed time: 0.3813338279724121 seconds
+2023-02-14 15:28:19,006 - root - INFO - --------------------------------------------------
+2023-02-14 15:28:19,006 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 3 jobs
+2023-02-14 15:28:19,007 - root - INFO - START -> <lambda>
+2023-02-14 15:28:19,008 - root - INFO - START -> <lambda>
+2023-02-14 15:28:19,216 - root - INFO - END -> <lambda>
+2023-02-14 15:28:19,216 - root - INFO - START -> <lambda>
+2023-02-14 15:28:19,279 - root - INFO - END -> <lambda>
+2023-02-14 15:28:19,407 - root - INFO - END -> <lambda>
+2023-02-14 15:28:19,407 - root - INFO - Complete. Elapsed time: 0.40065598487854004 seconds
+2023-02-14 15:28:45,449 - root - INFO - --------------------------------------------------
+2023-02-14 15:28:45,449 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 3 jobs
+2023-02-14 15:28:45,449 - root - INFO - START -> <lambda>
+2023-02-14 15:28:45,451 - root - INFO - START -> <lambda>
+2023-02-14 15:28:45,696 - root - INFO - END -> <lambda>
+2023-02-14 15:28:45,696 - root - INFO - START -> <lambda>
+2023-02-14 15:28:45,696 - root - INFO - END -> <lambda>
+2023-02-14 15:28:45,857 - root - INFO - END -> <lambda>
+2023-02-14 15:28:45,858 - root - INFO - Complete. Elapsed time: 0.41005873680114746 seconds
+2023-02-14 15:28:55,590 - root - INFO - --------------------------------------------------
+2023-02-14 15:28:55,590 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 3 jobs
+2023-02-14 15:28:55,591 - root - INFO - START -> <lambda>
+2023-02-14 15:28:55,748 - root - INFO - END -> <lambda>
+2023-02-14 15:28:55,748 - root - INFO - START -> <lambda>
+2023-02-14 15:28:55,903 - root - INFO - END -> <lambda>
+2023-02-14 15:28:55,904 - root - INFO - START -> <lambda>
+2023-02-14 15:28:56,066 - root - INFO - END -> <lambda>
+2023-02-14 15:28:56,066 - root - INFO - Complete. Elapsed time: 0.47521305084228516 seconds
+2023-02-14 15:29:03,159 - root - INFO - --------------------------------------------------
+2023-02-14 15:29:03,159 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 15:29:03,160 - root - INFO - START -> <lambda>
+2023-02-14 15:29:03,161 - root - INFO - START -> <lambda>
+2023-02-14 15:29:03,162 - root - INFO - START -> <lambda>
+2023-02-14 15:29:03,424 - root - INFO - END -> <lambda>
+2023-02-14 15:29:03,491 - root - INFO - END -> <lambda>
+2023-02-14 15:29:03,491 - root - INFO - END -> <lambda>
+2023-02-14 15:29:03,491 - root - INFO - Complete. Elapsed time: 0.33181071281433105 seconds
+2023-02-14 15:41:39,915 - root - INFO - --------------------------------------------------
+2023-02-14 15:41:39,915 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 15:41:39,916 - root - INFO - START -> <lambda>
+2023-02-14 15:41:39,917 - root - INFO - START -> <lambda>
+2023-02-14 15:41:39,918 - root - INFO - START -> <lambda>
+2023-02-14 15:41:40,206 - root - INFO - END -> <lambda>
+2023-02-14 15:41:40,207 - root - INFO - END -> <lambda>
+2023-02-14 15:41:40,207 - root - INFO - END -> <lambda>
+2023-02-14 15:41:40,208 - root - INFO - Complete. Elapsed time: 0.29245781898498535 seconds
+2023-02-14 15:41:53,309 - root - INFO - --------------------------------------------------
+2023-02-14 15:41:53,310 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 3 jobs
+2023-02-14 15:41:53,311 - root - INFO - START -> <lambda>
+2023-02-14 15:41:53,465 - root - INFO - END -> <lambda>
+2023-02-14 15:41:53,465 - root - INFO - START -> <lambda>
+2023-02-14 15:41:53,582 - root - INFO - END -> <lambda>
+2023-02-14 15:41:53,582 - root - INFO - START -> <lambda>
+2023-02-14 15:41:53,739 - root - INFO - END -> <lambda>
+2023-02-14 15:41:53,739 - root - INFO - Complete. Elapsed time: 0.4297358989715576 seconds
+2023-02-14 15:43:32,684 - root - INFO - --------------------------------------------------
+2023-02-14 15:43:32,684 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 15:43:32,685 - root - INFO - START -> <lambda>
+2023-02-14 15:43:32,686 - root - INFO - START -> <lambda>
+2023-02-14 15:43:32,687 - root - INFO - START -> <lambda>
+2023-02-14 15:43:32,937 - root - INFO - END -> <lambda>
+2023-02-14 15:43:32,938 - root - INFO - END -> <lambda>
+2023-02-14 15:43:32,971 - root - INFO - END -> <lambda>
+2023-02-14 15:43:32,972 - root - INFO - Complete. Elapsed time: 0.28808069229125977 seconds
+2023-02-14 16:16:55,266 - root - INFO - --------------------------------------------------
+2023-02-14 16:16:55,267 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 9 jobs
+2023-02-14 16:16:55,268 - root - INFO - Complete. Elapsed time: 0.0019991397857666016 seconds
+2023-02-14 16:21:31,781 - root - INFO - --------------------------------------------------
+2023-02-14 16:21:31,782 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 9 jobs
+2023-02-14 16:21:31,782 - root - INFO - START -> <lambda>
+2023-02-14 16:21:31,784 - root - INFO - START -> <lambda>
+2023-02-14 16:21:31,785 - root - INFO - START -> <lambda>
+2023-02-14 16:21:32,588 - root - INFO - END -> <lambda>
+2023-02-14 16:21:32,588 - root - INFO - START -> <lambda>
+2023-02-14 16:21:32,588 - root - INFO - END -> <lambda>
+2023-02-14 16:21:32,722 - root - INFO - START -> <lambda>
+2023-02-14 16:21:32,722 - root - INFO - END -> <lambda>
+2023-02-14 16:21:32,722 - root - INFO - START -> <lambda>
+2023-02-14 16:21:33,365 - root - INFO - END -> <lambda>
+2023-02-14 16:21:33,430 - root - INFO - START -> <lambda>
+2023-02-14 16:21:33,494 - root - INFO - END -> <lambda>
+2023-02-14 16:21:33,610 - root - INFO - START -> <lambda>
+2023-02-14 16:21:33,610 - root - INFO - END -> <lambda>
+2023-02-14 16:21:33,611 - root - INFO - START -> <lambda>
+2023-02-14 16:21:34,258 - root - INFO - END -> <lambda>
+2023-02-14 16:21:34,405 - root - INFO - END -> <lambda>
+2023-02-14 16:21:34,405 - root - INFO - END -> <lambda>
+2023-02-14 16:21:34,406 - root - INFO - Complete. Elapsed time: 2.6252613067626953 seconds
+2023-02-14 16:22:14,011 - root - INFO - --------------------------------------------------
+2023-02-14 16:22:14,011 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 16:22:14,012 - root - INFO - START -> <lambda>
+2023-02-14 16:22:14,013 - root - INFO - START -> <lambda>
+2023-02-14 16:22:14,014 - root - INFO - START -> <lambda>
+2023-02-14 16:22:14,249 - root - INFO - END -> <lambda>
+2023-02-14 16:22:14,249 - root - INFO - END -> <lambda>
+2023-02-14 16:22:14,284 - root - INFO - END -> <lambda>
+2023-02-14 16:22:14,284 - root - INFO - Complete. Elapsed time: 0.27351927757263184 seconds
+2023-02-14 16:22:24,462 - root - INFO - --------------------------------------------------
+2023-02-14 16:22:24,462 - root - INFO - Starting concurrent thread pool executor with 11 threads executing 5 jobs
+2023-02-14 16:22:24,463 - root - INFO - START -> job1
+2023-02-14 16:22:24,464 - root - INFO - START -> job2
+2023-02-14 16:22:24,465 - root - INFO - START -> job3
+2023-02-14 16:22:24,466 - root - INFO - START -> job4
+2023-02-14 16:22:24,467 - root - INFO - START -> job5
+2023-02-14 16:22:24,779 - root - INFO - END -> job3
+2023-02-14 16:22:24,960 - root - INFO - END -> job2
+2023-02-14 16:22:26,973 - root - INFO - END -> job4
+2023-02-14 16:22:27,378 - root - INFO - END -> job1
+2023-02-14 16:22:27,539 - root - INFO - END -> job5
+2023-02-14 16:22:27,540 - root - INFO - Complete. Elapsed time: 3.0777578353881836 seconds
+2023-02-14 16:22:51,124 - root - INFO - --------------------------------------------------
+2023-02-14 16:22:51,124 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 9 jobs
+2023-02-14 16:22:51,126 - root - INFO - START -> <lambda>
+2023-02-14 16:22:51,127 - root - INFO - START -> <lambda>
+2023-02-14 16:22:51,129 - root - INFO - START -> <lambda>
+2023-02-14 16:22:51,718 - root - INFO - END -> <lambda>
+2023-02-14 16:22:51,784 - root - INFO - START -> <lambda>
+2023-02-14 16:22:51,785 - root - INFO - END -> <lambda>
+2023-02-14 16:22:51,902 - root - INFO - START -> <lambda>
+2023-02-14 16:22:51,986 - root - INFO - END -> <lambda>
+2023-02-14 16:22:51,987 - root - INFO - START -> <lambda>
+2023-02-14 16:22:52,521 - root - INFO - END -> <lambda>
+2023-02-14 16:22:52,521 - root - INFO - START -> <lambda>
+2023-02-14 16:22:52,716 - root - INFO - END -> <lambda>
+2023-02-14 16:22:52,808 - root - INFO - START -> <lambda>
+2023-02-14 16:22:52,808 - root - INFO - END -> <lambda>
+2023-02-14 16:22:52,808 - root - INFO - START -> <lambda>
+2023-02-14 16:22:53,189 - root - INFO - END -> <lambda>
+2023-02-14 16:22:53,448 - root - INFO - END -> <lambda>
+2023-02-14 16:22:53,513 - root - INFO - END -> <lambda>
+2023-02-14 16:22:53,513 - root - INFO - Complete. Elapsed time: 2.388319492340088 seconds
+2023-02-14 16:23:52,474 - root - INFO - --------------------------------------------------
+2023-02-14 16:23:52,474 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 9 jobs
+2023-02-14 16:23:52,475 - root - INFO - START -> <lambda>
+2023-02-14 16:23:52,477 - root - INFO - START -> <lambda>
+2023-02-14 16:23:52,478 - root - INFO - START -> <lambda>
+2023-02-14 16:23:53,060 - root - INFO - END -> <lambda>
+2023-02-14 16:23:53,060 - root - INFO - START -> <lambda>
+2023-02-14 16:23:53,244 - root - INFO - END -> <lambda>
+2023-02-14 16:23:53,323 - root - INFO - START -> <lambda>
+2023-02-14 16:23:53,323 - root - INFO - END -> <lambda>
+2023-02-14 16:23:53,324 - root - INFO - START -> <lambda>
+2023-02-14 16:23:53,647 - root - INFO - END -> <lambda>
+2023-02-14 16:23:53,647 - root - INFO - START -> <lambda>
+2023-02-14 16:23:54,037 - root - INFO - END -> <lambda>
+2023-02-14 16:23:54,038 - root - INFO - START -> <lambda>
+2023-02-14 16:23:54,228 - root - INFO - END -> <lambda>
+2023-02-14 16:23:54,303 - root - INFO - START -> <lambda>
+2023-02-14 16:23:54,303 - root - INFO - END -> <lambda>
+2023-02-14 16:23:54,704 - root - INFO - END -> <lambda>
+2023-02-14 16:23:54,769 - root - INFO - END -> <lambda>
+2023-02-14 16:23:54,769 - root - INFO - Complete. Elapsed time: 2.29496431350708 seconds
+2023-02-14 16:25:48,967 - root - INFO - --------------------------------------------------
+2023-02-14 16:25:48,967 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 16:25:48,968 - root - INFO - START -> <lambda>
+2023-02-14 16:25:48,968 - root - INFO - START -> <lambda>
+2023-02-14 16:25:48,970 - root - INFO - START -> <lambda>
+2023-02-14 16:25:49,553 - root - INFO - END -> <lambda>
+2023-02-14 16:25:49,621 - root - INFO - END -> <lambda>
+2023-02-14 16:25:49,746 - root - INFO - END -> <lambda>
+2023-02-14 16:25:49,746 - root - INFO - Complete. Elapsed time: 0.7790820598602295 seconds
+2023-02-14 16:26:15,621 - root - INFO - --------------------------------------------------
+2023-02-14 16:26:15,621 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 16:26:15,622 - root - INFO - START -> <lambda>
+2023-02-14 16:26:15,623 - root - INFO - START -> <lambda>
+2023-02-14 16:26:15,624 - root - INFO - START -> <lambda>
+2023-02-14 16:26:16,194 - root - INFO - END -> <lambda>
+2023-02-14 16:26:16,320 - root - INFO - END -> <lambda>
+2023-02-14 16:26:16,384 - root - INFO - END -> <lambda>
+2023-02-14 16:26:16,385 - root - INFO - Complete. Elapsed time: 0.7642455101013184 seconds
+2023-02-14 16:26:34,358 - root - INFO - --------------------------------------------------
+2023-02-14 16:26:34,358 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 16:26:34,358 - root - INFO - START -> <lambda>
+2023-02-14 16:26:34,360 - root - INFO - START -> <lambda>
+2023-02-14 16:26:34,360 - root - INFO - START -> <lambda>
+2023-02-14 16:26:34,616 - root - INFO - END -> <lambda>
+2023-02-14 16:26:34,650 - root - INFO - END -> <lambda>
+2023-02-14 16:26:34,651 - root - INFO - END -> <lambda>
+2023-02-14 16:26:34,651 - root - INFO - Complete. Elapsed time: 0.2940678596496582 seconds
+2023-02-14 16:26:40,683 - root - INFO - --------------------------------------------------
+2023-02-14 16:26:40,684 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 16:26:40,684 - root - INFO - START -> <lambda>
+2023-02-14 16:26:40,719 - root - INFO - START -> <lambda>
+2023-02-14 16:26:40,737 - root - INFO - START -> <lambda>
+2023-02-14 16:26:40,940 - root - INFO - END -> <lambda>
+2023-02-14 16:26:40,973 - root - INFO - END -> <lambda>
+2023-02-14 16:26:40,973 - root - INFO - END -> <lambda>
+2023-02-14 16:26:40,973 - root - INFO - Complete. Elapsed time: 0.2902379035949707 seconds
+2023-02-14 16:27:31,924 - root - INFO - --------------------------------------------------
+2023-02-14 16:27:31,925 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 16:27:31,925 - root - INFO - START -> <lambda>
+2023-02-14 16:27:31,926 - root - INFO - START -> <lambda>
+2023-02-14 16:27:31,927 - root - INFO - START -> <lambda>
+2023-02-14 16:27:32,208 - root - INFO - END -> <lambda>
+2023-02-14 16:27:32,208 - root - INFO - END -> <lambda>
+2023-02-14 16:27:32,209 - root - INFO - END -> <lambda>
+2023-02-14 16:27:32,209 - root - INFO - Complete. Elapsed time: 0.2850313186645508 seconds
+2023-02-14 16:28:04,981 - root - INFO - START -> <lambda>
+2023-02-14 16:28:05,288 - root - INFO - END -> <lambda>
+2023-02-14 16:28:14,678 - root - INFO - START -> <lambda>
+2023-02-14 16:28:15,030 - root - INFO - END -> <lambda>
+2023-02-14 16:28:22,920 - root - INFO - START -> <lambda>
+2023-02-14 16:28:23,275 - root - INFO - END -> <lambda>
+2023-02-14 16:51:37,012 - root - INFO - --------------------------------------------------
+2023-02-14 16:51:37,012 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 3 jobs
+2023-02-14 16:51:37,013 - root - INFO - START -> sleep1
+2023-02-14 16:51:38,024 - root - INFO - END -> sleep1
+2023-02-14 16:51:38,024 - root - INFO - START -> sleep2
+2023-02-14 16:51:40,032 - root - INFO - END -> sleep2
+2023-02-14 16:51:40,032 - root - INFO - START -> sleep3
+2023-02-14 16:51:43,046 - root - INFO - END -> sleep3
+2023-02-14 16:51:43,047 - root - INFO - Complete. Elapsed time: 6.034709453582764 seconds
+2023-02-14 16:51:59,440 - root - INFO - --------------------------------------------------
+2023-02-14 16:51:59,440 - root - INFO - Starting concurrent thread pool executor with 2 threads executing 3 jobs
+2023-02-14 16:51:59,441 - root - INFO - START -> sleep1
+2023-02-14 16:51:59,441 - root - INFO - START -> sleep2
+2023-02-14 16:52:00,452 - root - INFO - END -> sleep1
+2023-02-14 16:52:00,453 - root - INFO - START -> sleep3
+2023-02-14 16:52:01,452 - root - INFO - END -> sleep2
+2023-02-14 16:52:03,466 - root - INFO - END -> sleep3
+2023-02-14 16:52:03,467 - root - INFO - Complete. Elapsed time: 4.0261406898498535 seconds
+2023-02-14 16:52:23,936 - root - INFO - --------------------------------------------------
+2023-02-14 16:52:23,936 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 16:52:23,938 - root - INFO - START -> sleep1
+2023-02-14 16:52:23,938 - root - INFO - START -> sleep2
+2023-02-14 16:52:23,939 - root - INFO - START -> sleep3
+2023-02-14 16:52:24,942 - root - INFO - END -> sleep1
+2023-02-14 16:52:25,945 - root - INFO - END -> sleep2
+2023-02-14 16:52:26,943 - root - INFO - END -> sleep3
+2023-02-14 16:52:26,944 - root - INFO - Complete. Elapsed time: 3.0082406997680664 seconds
+2023-02-14 16:54:20,885 - root - INFO - --------------------------------------------------
+2023-02-14 16:54:20,885 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 16:54:20,886 - root - INFO - START -> <lambda>
+2023-02-14 16:54:20,887 - root - INFO - START -> <lambda>
+2023-02-14 16:54:20,888 - root - INFO - START -> <lambda>
+2023-02-14 16:54:21,143 - root - INFO - END -> <lambda>
+2023-02-14 16:54:21,143 - root - INFO - END -> <lambda>
+2023-02-14 16:54:21,177 - root - INFO - END -> <lambda>
+2023-02-14 16:54:21,177 - root - INFO - Complete. Elapsed time: 0.29108238220214844 seconds
+2023-02-14 16:54:35,608 - root - INFO - --------------------------------------------------
+2023-02-14 16:54:35,608 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 16:54:35,609 - root - INFO - START -> <lambda>
+2023-02-14 16:54:35,610 - root - INFO - START -> <lambda>
+2023-02-14 16:54:35,611 - root - INFO - START -> <lambda>
+2023-02-14 16:55:18,176 - root - INFO - END -> <lambda>
+2023-02-14 16:55:18,187 - root - INFO - END -> <lambda>
+2023-02-14 16:55:18,192 - root - INFO - END -> <lambda>
+2023-02-14 16:55:18,205 - root - INFO - Complete. Elapsed time: 42.5963978767395 seconds
+2023-02-14 16:55:33,031 - root - INFO - --------------------------------------------------
+2023-02-14 16:55:33,032 - root - INFO - Starting concurrent thread pool executor with 3 threads executing 3 jobs
+2023-02-14 16:55:33,032 - root - INFO - START -> <lambda>
+2023-02-14 16:55:33,037 - root - INFO - START -> <lambda>
+2023-02-14 16:55:33,038 - root - INFO - START -> <lambda>
+2023-02-14 16:55:33,289 - root - INFO - END -> <lambda>
+2023-02-14 16:55:33,327 - root - INFO - END -> <lambda>
+2023-02-14 16:55:33,328 - root - INFO - END -> <lambda>
+2023-02-14 16:55:33,328 - root - INFO - Complete. Elapsed time: 0.29688310623168945 seconds
+2023-02-14 16:55:47,676 - root - INFO - --------------------------------------------------
+2023-02-14 16:55:47,676 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 3 jobs
+2023-02-14 16:55:47,676 - root - INFO - START -> <lambda>
+2023-02-14 16:55:47,816 - root - INFO - END -> <lambda>
+2023-02-14 16:55:47,816 - root - INFO - START -> <lambda>
+2023-02-14 16:55:47,932 - root - INFO - END -> <lambda>
+2023-02-14 16:55:47,933 - root - INFO - START -> <lambda>
+2023-02-14 16:55:48,095 - root - INFO - END -> <lambda>
+2023-02-14 16:55:48,095 - root - INFO - Complete. Elapsed time: 0.419647216796875 seconds
+2023-02-18 13:01:27,126 - root - INFO - --------------------------------------------------
+2023-02-18 13:01:27,126 - root - INFO - Starting concurrent thread pool executor with 1 threads executing 3 jobs
+2023-02-18 13:01:27,126 - root - INFO - START -> job1
+2023-02-18 13:01:27,759 - root - INFO - END -> job1
+2023-02-18 13:01:27,759 - root - INFO - START -> job2
+2023-02-18 13:01:28,195 - root - INFO - END -> job2
+2023-02-18 13:01:28,195 - root - INFO - START -> job3
+2023-02-18 13:01:28,598 - root - INFO - END -> job3
+2023-02-18 13:01:28,598 - root - INFO - Complete. Elapsed time: 1.4720842838287354 seconds
+2023-02-18 13:01:56,253 - root - INFO - --------------------------------------------------
+2023-02-18 13:01:56,253 - root - INFO - Starting concurrent thread pool executor with 11 threads executing 5 jobs
+2023-02-18 13:01:56,255 - root - INFO - START -> job1
+2023-02-18 13:01:56,291 - root - INFO - START -> job2
+2023-02-18 13:01:56,297 - root - INFO - START -> job3
+2023-02-18 13:01:56,315 - root - INFO - START -> job4
+2023-02-18 13:01:56,320 - root - INFO - START -> job5
+2023-02-18 13:01:56,699 - root - INFO - END -> job3
+2023-02-18 13:01:56,995 - root - INFO - END -> job2
+2023-02-18 13:01:59,954 - root - INFO - END -> job4
+2023-02-18 13:02:00,147 - root - INFO - END -> job1
+2023-02-18 13:02:00,665 - root - INFO - END -> job5
+2023-02-18 13:02:00,665 - root - INFO - Complete. Elapsed time: 4.412538528442383 seconds
